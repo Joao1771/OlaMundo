@@ -31,7 +31,7 @@ Linha Horizontal (3 * ou _)
    * 3 espaços para fazer isso
 * E outra bolinha
 
-### Tarefas (`-[]`)
+### Tarefas (`-[ ]`)
 
 - [x] Fazer essa lista
 - [x] Marcar duas opções com [ x ] 
@@ -46,7 +46,7 @@ Linha Horizontal (3 * ou _)
 
 ### Imagem (`![descr](src)`)
 
-
+[bart](https://static.wikia.nocookie.net/roblox-goofy-runners/images/8/86/Bart.png/revision/latest?cb=20230921214856)
 
 ## Tabelas (obj 1 | obj 2   ---|---)
 
@@ -78,4 +78,4 @@ Ninguem sabe.
 
 ## Marcar (`@nick`)
 
-Tipo Instagram ou Discord. Exemplo: @Joao1771
+Tipo Instagram ou Discord. Muito usado nas issues. Exemplo: @Joao1771
