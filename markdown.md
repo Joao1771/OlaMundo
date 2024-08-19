@@ -3,11 +3,13 @@
 ### Tópico
 
 Markdown é uma linguagem de **marcação**/formatação de texto muito mais simples que _HTML_ que faz:
+
 __negrito__(2 * ou _)    *italico* (1 * ou _)   ~~riscado~~  (2 ~)
 
 _obs:dá pra misturar eles_
 
 Por ser muito simples, existe em vários lugares que possuem texto (até Whatsapp).
+
 Linha Horizontal (3 * ou _)
 
 ***
@@ -18,7 +20,7 @@ Linha Horizontal (3 * ou _)
 1. enumerada
 1. Enumerada
    2. Dentro da Enumerada
-   2. Qualquer número 
+   3. Qualquer número 
 6. número. lista
 
 ### Bolinhas (*) ou ul
@@ -33,8 +35,8 @@ Linha Horizontal (3 * ou _)
 
 - [x] Fazer essa lista
 - [x] Marcar duas opções com [ x ] 
-- [] Testar
-- [] Terminar landing page
+- [ ] Testar
+- [ ] Terminar landing page
 
 ## links e imagens
 
@@ -71,8 +73,9 @@ só colocar :+1: os : e o nome do emoji
 ## Quote (> resposta)
 
 > Quem postou isso?
+
 Ninguem sabe.
 
 ## Marcar (`@nick`)
 
-Tipo instagram ou discord @Joao1771
+Tipo Instagram ou Discord. Exemplo: @Joao1771
